@@ -1,0 +1,47 @@
+.intro{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+   text-align: center;
+    padding-top: 50px;
+    margin-bottom: 0;
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    
+
+}
+.duction{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size:30px ;
+    padding-top: 35px;
+    padding-bottom:40px;
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+.lead{
+    font-family: bold;
+}
+.aizen{
+    background-color:grey;
+    border-radius: 50%;
+}
+.espada {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 50px;
+}
+.hate {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center; 
+    padding-top: 20px;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+#featured-3{
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
